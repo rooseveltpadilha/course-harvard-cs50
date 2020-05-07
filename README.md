@@ -1,5 +1,4 @@
-
-
+![Brasão da Universidade de Havard](https://www.harvard.edu/sites/default/files/user13/harvard_shield_wreath.png)
 # Curso de Harvard CS50
 
 -   Exercícios em C disponibilizados aqui.
